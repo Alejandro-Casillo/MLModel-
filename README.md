@@ -1,2 +1,2 @@
 # MLModel-
-c++ Machine Learning model for Capstone Project
+Machine Learning model for Capstone Project
